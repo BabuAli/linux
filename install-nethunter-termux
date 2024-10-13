@@ -1,4 +1,4 @@
-#!/data/data/com.termux/files/usr/bin/bash -e
+#!/usr/bin/env bash -e
 
 VERSION=2024022001
 BASE_URL=https://kali.download/nethunter-images/current/rootfs
